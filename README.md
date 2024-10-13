@@ -4,6 +4,11 @@
 
 2024.09 有 7 个 assginment
 
+# week
+
+[1 Types and Structs ](week/1.md): struct, pair, using, auto
+
+
 # assign
 
 代码存到 [github]() or [gitee](https://gitee.com/anidea/cs106l-assignments/tree/create/)，出于课程诚信考虑，课程结束前不会公开
