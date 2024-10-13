@@ -8,6 +8,7 @@
 
 [1 Types and Structs ](week/1.md): struct, pair, using, auto
 
+[2 Initialization References Streams](week/2.md): L/R value, const, sstream, ofstream, ifstream
 
 # assign
 
