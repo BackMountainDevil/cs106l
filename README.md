@@ -4,6 +4,12 @@
 
 2024.09 有 7 个 assginment
 
+# assign
+
+代码存到 [github]() or [gitee](https://gitee.com/anidea/cs106l-assignments/tree/create/)，出于课程诚信考虑，课程结束前不会公开
+
+[1 SimpleEnroll](assign/1.md)
+
 # Original 106L Course Reader
 
 [Course Reader](http://web.stanford.edu/class/cs106l/full_course_reader.pdf)
